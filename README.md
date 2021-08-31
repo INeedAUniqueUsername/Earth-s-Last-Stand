@@ -1,4 +1,4 @@
-# Earth's Last Stand
+# Last Stand of Earth
 
 ![](ELS_Preview.png)
 
